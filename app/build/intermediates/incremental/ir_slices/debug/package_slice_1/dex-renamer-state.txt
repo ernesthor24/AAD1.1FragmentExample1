@@ -1,0 +1,4 @@
+#Thu Jun 06 17:07:30 PHT 2019
+base.0=/Users/ernestguevara/AndroidStudioProjects/FragmentExample_start/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
